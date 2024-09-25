@@ -1,0 +1,13 @@
+.searchbar {
+    background-color: white;
+    border-radius: 30px;
+    width: 40%;
+    padding: 10px;
+}
+
+.searchButton {
+    background-color: white;
+    padding: 10px;
+    border-radius: 100%;
+    margin-left: 5px;
+}
